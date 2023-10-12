@@ -8,10 +8,8 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  height: 100vh;
- 
-
-}
+  /* height: 100vh; */
+ }
 .page-container{
   width: 982px;
   margin: auto;

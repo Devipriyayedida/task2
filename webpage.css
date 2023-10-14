@@ -65,8 +65,8 @@
   border-width: thin;
 }
 .logo{
-  padding-top: 24px;
-  margin-bottom: 16px;   
+  padding-top: 6px;
+  
 }
 .navigation ul{
   list-style: none;
@@ -253,15 +253,17 @@ filter: brightness(200%);
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   color: #fff;
   font-size: 14px;
-  line-height:1.7;
+  letter-spacing: 1px;
+  line-height:1.6;
 }
 .services-content-container ul{
   padding-left: 35px;
 }
 .services-content-container li{
   color: #fff;
-  line-height: 1.7;
+  line-height: 1.6;
   font-size: 14px;
+  letter-spacing: 1px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
